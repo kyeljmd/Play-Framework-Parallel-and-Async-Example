@@ -1,7 +1,12 @@
 Play Framework 2.0 WS Async and Parallel Examples
 =====================================
-The code some of the source here were taken from 
+The Some of the source here were taken from 
 
 http://www.slideshare.net/brikis98/the-play-framework-at-linkedin
 
+I also updated the deprecated libraries that were used from the example
+
 Built using Play 2.1.4
+
+Built this so that I can easily demonstrate Async and parallel API calls 
+ability of Play framework to my friends/colleagues
